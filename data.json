@@ -1,0 +1,19 @@
+{
+   "employees": [
+    {
+        "user" : "Gulana",
+        "surname": "Hacizade",
+        "age" : 19
+    },
+    {
+        "user" : "Ayan",
+        "surname": "Mammadzada",
+        "age" : 20
+    },
+    {
+        "user" : "Xedice",
+        "surname": "Canaliyeva",
+        "age" : 19
+    }
+   ]
+}
